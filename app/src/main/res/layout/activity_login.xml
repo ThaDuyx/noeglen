@@ -30,7 +30,6 @@
         android:textColor="#42B0FF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
-
     <TextView
         android:id="@+id/glemtKodeID"
         android:layout_width="wrap_content"
