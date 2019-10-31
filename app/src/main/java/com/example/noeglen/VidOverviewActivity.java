@@ -16,7 +16,7 @@ public class VidOverviewActivity extends AppCompatActivity implements View.OnCli
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_vidoverview);
 
-        btn.findViewById(R.id.button3);
+        btn = findViewById(R.id.button3);
         btn.setOnClickListener(this);
     }
 
